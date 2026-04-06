@@ -33,4 +33,5 @@ New-NetFirewallRule -Name sshd -DisplayName 'OpenSSH Server (sshd)' -Enabled Tru
 
 ### 登录
 ssh -p 端口 用户名@ip
+<br>
 ssh 用户名@ip
